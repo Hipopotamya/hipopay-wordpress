@@ -21,7 +21,7 @@ HipoPAY, güçlü ve güvenli altyapısıyla kredi kartı işlemlerini hızlıca
 👉 **En güncel sürümü indir:**
 https://github.com/Hipopotamya/hipopay-wordpress/releases/latest
 
-📌 **Not:** WordPress’e yüklemek için yalnızca release `.zip` dosyasını kullanın.
+📌 **Not:** WordPress’e yüklemek için yalnızca release `hipopay-payment-gateway.zip` dosyasını kullanın.
 
 ---
 
