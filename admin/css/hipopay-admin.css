@@ -1,0 +1,130 @@
+/**
+ * HipoPAY Admin Panel Styles
+ *
+ * @package Hipopay_Payment_Gateway
+ */
+
+/* ─── Stats Grid ─────────────────────────────────────────────── */
+.hipopay-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin: 16px 0 24px;
+}
+
+.hipopay-stat-card {
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    border-radius: 4px;
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+}
+
+.hipopay-stat-card__icon {
+    font-size: 36px;
+    line-height: 1;
+    flex-shrink: 0;
+}
+
+.hipopay-stat-card__body {
+    min-width: 0;
+}
+
+.hipopay-stat-card__value {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1d2327;
+    line-height: 1.1;
+}
+
+.hipopay-stat-card__label {
+    font-size: 11px;
+    color: #646970;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    margin-top: 2px;
+}
+
+/* Renk varyantları */
+.hipopay-stat-card--green .hipopay-stat-card__value { color: #00a32a; }
+.hipopay-stat-card--orange .hipopay-stat-card__value { color: #dba617; }
+.hipopay-stat-card--red .hipopay-stat-card__value { color: #d63638; }
+.hipopay-stat-card--blue .hipopay-stat-card__value { color: #0073aa; }
+.hipopay-stat-card--purple .hipopay-stat-card__value { color: #8c5cba; }
+
+/* ─── Revenue Row ─────────────────────────────────────────────── */
+.hipopay-revenue-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+/* ─── Chart Card ──────────────────────────────────────────────── */
+.hipopay-chart-card {
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    border-radius: 4px;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+}
+
+.hipopay-chart-card h2 {
+    margin: 0 0 16px;
+    font-size: 14px;
+    color: #1d2327;
+}
+
+/* ─── Transactions Filter Bar ─────────────────────────────────── */
+.hipopay-filter-bar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    padding: 8px 0 4px;
+}
+
+.hipopay-filter-bar label {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.hipopay-filter-bar select,
+.hipopay-filter-bar input[type="date"] {
+    font-size: 13px;
+    padding: 4px 6px;
+    border: 1px solid #c3c4c7;
+    border-radius: 3px;
+    background: #fff;
+    height: 30px;
+}
+
+/* ─── Status Badge ────────────────────────────────────────────── */
+.hipopay-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 1.5;
+}
+
+/* ─── Responsive ──────────────────────────────────────────────── */
+@media screen and (max-width: 1200px) {
+    .hipopay-stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 782px) {
+    .hipopay-stats-grid,
+    .hipopay-revenue-grid {
+        grid-template-columns: 1fr;
+    }
+}

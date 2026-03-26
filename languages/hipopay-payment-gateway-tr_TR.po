@@ -1,0 +1,473 @@
+# Copyright (C) 2024
+# This file is distributed under the same license as the HipoPAY Payment Gateway plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: HipoPAY Payment Gateway 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-26 00:07\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "150 Silk, VIP Üyelik, vb."
+msgstr "150 Silk, VIP Üyelik, vb."
+
+msgid "API Anahtarı (API Key)"
+msgstr "API Anahtarı (API Key)"
+
+msgid "API Bilgileri"
+msgstr "API Bilgileri"
+
+msgid "API Key"
+msgstr "API Key"
+
+msgid "API Kimlik Bilgileri"
+msgstr "API Kimlik Bilgileri"
+
+msgid "API Kimlik Bilgileri (Shortcode Formları)"
+msgstr "API Kimlik Bilgileri (Shortcode Formları)"
+
+msgid "API Secret"
+msgstr "API Secret"
+
+msgid "API bağlantısı başarılı! Test işlemi oluşturuldu."
+msgstr "API bağlantısı başarılı! Test işlemi oluşturuldu."
+
+msgid "API bağlantısı başarısız: "
+msgstr "API bağlantısı başarısız: "
+
+msgid "Adınız Soyadınız"
+msgstr "Adınız Soyadınız"
+
+msgid "Aktifleştir/Devre Dışı Bırak"
+msgstr "Aktifleştir/Devre Dışı Bırak"
+
+msgid "Ara"
+msgstr "Ara"
+
+msgid "Ayarlar kaydedildi."
+msgstr "Ayarlar kaydedildi."
+
+msgid "Ayarları Kaydet"
+msgstr "Ayarları Kaydet"
+
+msgid "Açıklama"
+msgstr "Açıklama"
+
+msgid "Aşağıdaki adresi <a href=\"https://www.hipopotamya.com/merchants/stores\" target=\"_blank\">Hipopotamya paneli &rarr; Mağazalarım</a> bölümündeki <strong>Callback URL</strong> alanına yapıştırın. Bu adres olmadan ödemeler WordPress'e yansımaz."
+msgstr "Aşağıdaki adresi <a href=\"https://www.hipopotamya.com/merchants/stores\" target=\"_blank\">Hipopotamya paneli &rarr; Mağazalarım</a> bölümündeki <strong>Callback URL</strong> alanına yapıştırın. Bu adres olmadan ödemeler WordPress'e yansımaz."
+
+msgid "Aşağıdaki anahtar bilgileri <strong>[hipopay_form]</strong> ve <strong>[hipopay_donate]</strong> shortcode'larıyla oluşturulan bağımsız ödeme formları tarafından kullanılır. WooCommerce kurulu olmayan sayfalarda veya özel sayfalarda ödeme almak istiyorsanız bu alanları doldurun."
+msgstr "Aşağıdaki anahtar bilgileri <strong>[hipopay_form]</strong> ve <strong>[hipopay_donate]</strong> shortcode'larıyla oluşturulan bağımsız ödeme formları tarafından kullanılır. WooCommerce kurulu olmayan sayfalarda veya özel sayfalarda ödeme almak istiyorsanız bu alanları doldurun."
+
+msgid "Bağlantıyı Test Et"
+msgstr "Bağlantıyı Test Et"
+
+msgid "Bağış"
+msgstr "Bağış"
+
+msgid "Bağış Yap"
+msgstr "Bağış Yap"
+
+msgid "Bağış/işlem adı. Varsayılan: \"Bağış\""
+msgstr "Bağış/işlem adı. Varsayılan: \"Bağış\""
+
+msgid "Başarısız"
+msgstr "Başarısız"
+
+msgid "Başlangıç"
+msgstr "Başlangıç"
+
+msgid "Başlangıç tarihi"
+msgstr "Başlangıç tarihi"
+
+msgid "Başlık"
+msgstr "Başlık"
+
+msgid "Bekliyor"
+msgstr "Bekliyor"
+
+msgid "Bilgileriniz hesabınızdan otomatik dolduruldu."
+msgstr "Bilgileriniz hesabınızdan otomatik dolduruldu."
+
+msgid "Bilinmeyen hata."
+msgstr "Bilinmeyen hata."
+
+msgid "Bitiş"
+msgstr "Bitiş"
+
+msgid "Bitiş tarihi"
+msgstr "Bitiş tarihi"
+
+msgid "Buton Metni"
+msgstr "Buton Metni"
+
+msgid "Buton metni. Varsayılan: \"Bağış Yap\""
+msgstr "Buton metni. Varsayılan: \"Bağış Yap\""
+
+msgid "Buton metni. Varsayılan: \"Ödeme Yap\""
+msgstr "Buton metni. Varsayılan: \"Ödeme Yap\""
+
+msgid "Dernek / Yayıncı — kullanıcı tutar girer bağış kutusu"
+msgstr "Dernek / Yayıncı — kullanıcı tutar girer bağış kutusu"
+
+msgid "Değişken Tutarlı Bağış Formu"
+msgstr "Değişken Tutarlı Bağış Formu"
+
+msgid "Durum"
+msgstr "Durum"
+
+msgid "Duruma göre filtrele"
+msgstr "Duruma göre filtrele"
+
+msgid "E-Posta Adresiniz"
+msgstr "E-Posta Adresiniz"
+
+msgid "Ekstra CSS Sınıfı"
+msgstr "Ekstra CSS Sınıfı"
+
+msgid "Etkinlik bilet satışı"
+msgstr "Etkinlik bilet satışı"
+
+msgid "Evet"
+msgstr "Evet"
+
+msgid "Failed Transactions"
+msgstr "Failed Transactions"
+
+msgid "Filtrele"
+msgstr "Filtrele"
+
+msgid "Form Ayarları"
+msgstr "Form Ayarları"
+
+msgid "Form Tipi"
+msgstr "Form Tipi"
+
+msgid "Forma eklenecek ekstra CSS sınıfı"
+msgstr "Forma eklenecek ekstra CSS sınıfı"
+
+msgid "Forma eklenecek özel CSS sınıfı (isteğe bağlı)."
+msgstr "Forma eklenecek özel CSS sınıfı (isteğe bağlı)."
+
+msgid "Formu"
+msgstr "Formu"
+
+msgid "Gelişmiş Ayarlar"
+msgstr "Gelişmiş Ayarlar"
+
+msgid "Geliştirme aşamasında test modunu aktif tutun."
+msgstr "Geliştirme aşamasında test modunu aktif tutun."
+
+msgid "Gizli Anahtar (API Secret)"
+msgstr "Gizli Anahtar (API Secret)"
+
+msgid "Gönder butonunda görünecek metin."
+msgstr "Gönder butonunda görünecek metin."
+
+msgid "Güvenlik doğrulaması başarısız oldu."
+msgstr "Güvenlik doğrulaması başarısız oldu."
+
+msgid "Hata Ayıklama (Debug)"
+msgstr "Hata Ayıklama (Debug)"
+
+msgid "Hatalı form parametresi: Geçerli bir <code>price</code> (tutar) girilmelidir."
+msgstr "Hatalı form parametresi: Geçerli bir <code>price</code> (tutar) girilmelidir."
+
+msgid "Hayır"
+msgstr "Hayır"
+
+msgid "Herhangi bir WordPress sayfasına veya yazısına aşağıdaki kısa kodları ekleyerek ödeme formu oluşturabilirsiniz. WooCommerce kurulu olmasına <strong>gerek yoktur</strong>."
+msgstr "Herhangi bir WordPress sayfasına veya yazısına aşağıdaki kısa kodları ekleyerek ödeme formu oluşturabilirsiniz. WooCommerce kurulu olmasına <strong>gerek yoktur</strong>."
+
+msgid "HipoPAY"
+msgstr "HipoPAY"
+
+msgid "HipoPAY Ayarları"
+msgstr "HipoPAY Ayarları"
+
+msgid "HipoPAY Bağış Formu"
+msgstr "HipoPAY Bağış Formu"
+
+msgid "HipoPAY Merchant API Key"
+msgstr "HipoPAY Merchant API Key"
+
+msgid "HipoPAY Merchant API Secret"
+msgstr "HipoPAY Merchant API Secret"
+
+msgid "HipoPAY Sabit Tutarlı Ödeme Formu"
+msgstr "HipoPAY Sabit Tutarlı Ödeme Formu"
+
+msgid "HipoPAY ile Öde"
+msgstr "HipoPAY ile Öde"
+
+msgid "HipoPAY Ödeme Formu"
+msgstr "HipoPAY Ödeme Formu"
+
+msgid "HipoPAY Ödeme Yöntemini Aktifleştir"
+msgstr "HipoPAY Ödeme Yöntemini Aktifleştir"
+
+msgid "HipoPAY ödeme altyapısı ile kredi kartı ödemeleri alın."
+msgstr "HipoPAY ödeme altyapısı ile kredi kartı ödemeleri alın."
+
+msgid "HipoPAY ödeme formunu sayfaya ekler."
+msgstr "HipoPAY ödeme formunu sayfaya ekler."
+
+msgid "HipoPAY ödeme sayfası oluşturuldu, kullanıcı yönlendiriliyor."
+msgstr "HipoPAY ödeme sayfası oluşturuldu, kullanıcı yönlendiriliyor."
+
+msgid "HipoPAY üzerinden gerçekleştirilen tüm ödeme işlemleri burada listelenir."
+msgstr "HipoPAY üzerinden gerçekleştirilen tüm ödeme işlemleri burada listelenir."
+
+msgid "HipoPAY üzerinden güvenli ve hızlı ödeme almanızı sağlar. E-pin satışları ve top-up işlemleri için idealdir."
+msgstr "HipoPAY üzerinden güvenli ve hızlı ödeme almanızı sağlar. E-pin satışları ve top-up işlemleri için idealdir."
+
+msgid "HipoPAY — Overview"
+msgstr "HipoPAY — Overview"
+
+msgid "HipoPAY — Shortcode / Bağımsız Form Ayarları"
+msgstr "HipoPAY — Shortcode / Bağımsız Form Ayarları"
+
+msgid "Hipopotamya (HipoPAY) üzerinden aldığınız API anahtarlarını girin.<br><br><strong>Önemli:</strong> Aşağıdaki Webhook URL adresini kopyalayarak Hipopotamya müşteri panelinizdeki (<a href=\"https://www.hipopotamya.com/merchants/stores\" target=\"_blank\">Mağazalarım</a>) <strong>Callback URL</strong> kısmına yapıştırmanız gerekmektedir. Aksi takdirde ödemeler WordPress sisteminize yansımaz!<br><br><strong>Webhook (Callback) URL:</strong> <code>"
+msgstr "Hipopotamya (HipoPAY) üzerinden aldığınız API anahtarlarını girin.<br><br><strong>Önemli:</strong> Aşağıdaki Webhook URL adresini kopyalayarak Hipopotamya müşteri panelinizdeki (<a href=\"https://www.hipopotamya.com/merchants/stores\" target=\"_blank\">Mağazalarım</a>) <strong>Callback URL</strong> kısmına yapıştırmanız gerekmektedir. Aksi takdirde ödemeler WordPress sisteminize yansımaz!<br><br><strong>Webhook (Callback) URL:</strong> <code>"
+
+msgid "Hipopotamya panelinden aldığınız API Key."
+msgstr "Hipopotamya panelinden aldığınız API Key."
+
+msgid "Hipopotamya panelinden aldığınız API Secret."
+msgstr "Hipopotamya panelinden aldığınız API Secret."
+
+msgid "IPN / Webhook URL"
+msgstr "IPN / Webhook URL"
+
+msgid "IPN isteklerini ve hataları WooCommerce Loglarına yazar."
+msgstr "IPN isteklerini ve hataları WooCommerce Loglarına yazar."
+
+msgid "Komisyon Tipi"
+msgstr "Komisyon Tipi"
+
+msgid "Komisyon yükünün kim tarafından karşılanacağını seçin."
+msgstr "Komisyon yükünün kim tarafından karşılanacağını seçin."
+
+msgid "Kredi kartı ile güvenle ödeme yapabilirsiniz."
+msgstr "Kredi kartı ile güvenle ödeme yapabilirsiniz."
+
+msgid "Kredi kartı veya banka kartı ile güvenli ödeme yapın."
+msgstr "Kredi kartı veya banka kartı ile güvenli ödeme yapın."
+
+msgid "Kullanıcının kendi tutarını girdiği bağış / ödeme formu."
+msgstr "Kullanıcının kendi tutarını girdiği bağış / ödeme formu."
+
+msgid "Kullanılacak Shortcode"
+msgstr "Kullanılacak Shortcode"
+
+msgid "Last 7 Days Revenue (₺)"
+msgstr "Last 7 Days Revenue (₺)"
+
+msgid "Loglamayı Etkinleştir"
+msgstr "Loglamayı Etkinleştir"
+
+msgid "Lütfen API anahtarlarını kontrol edin."
+msgstr "Lütfen API anahtarlarını kontrol edin."
+
+msgid "Lütfen bilgileri eksiksiz girin."
+msgstr "Lütfen bilgileri eksiksiz girin."
+
+msgid "Müşteri"
+msgstr "Müşteri"
+
+msgid "Not:"
+msgstr "Not:"
+
+msgid "Oturum açmış WordPress kullanıcılarında ad ve e-posta alanları hesap bilgilerinden otomatik doldurulur ve salt okunur hale gelir."
+msgstr "Oturum açmış WordPress kullanıcılarında ad ve e-posta alanları hesap bilgilerinden otomatik doldurulur ve salt okunur hale gelir."
+
+msgid "Oyun sunucusu — 150₺ sabit E-Pin satışı"
+msgstr "Oyun sunucusu — 150₺ sabit E-Pin satışı"
+
+msgid "Parametre"
+msgstr "Parametre"
+
+msgid "Pending Transactions"
+msgstr "Pending Transactions"
+
+msgid "Profili Görüntüle &rarr;"
+msgstr "Profili Görüntüle &rarr;"
+
+msgid "Referans No"
+msgstr "Referans No"
+
+msgid "Revenue (₺)"
+msgstr "Revenue (₺)"
+
+msgid "Sabit Tutarlı Ödeme Formu"
+msgstr "Sabit Tutarlı Ödeme Formu"
+
+msgid "Sabit tutar (₺). Örn: 150 veya 99.99"
+msgstr "Sabit tutar (₺). Örn: 150 veya 99.99"
+
+msgid "Sabit tutarlı ödeme formu ekler."
+msgstr "Sabit tutarlı ödeme formu ekler."
+
+msgid "Sabit ödeme tutarı. Örn: 150 veya 99.99"
+msgstr "Sabit ödeme tutarı. Örn: 150 veya 99.99"
+
+msgid "Senaryo"
+msgstr "Senaryo"
+
+msgid "Shortcode Ayarları"
+msgstr "Shortcode Ayarları"
+
+msgid "Shortcode Kullanım Rehberi"
+msgstr "Shortcode Kullanım Rehberi"
+
+msgid "Sipariş"
+msgstr "Sipariş"
+
+msgid "Sistemsel bir hata oluştu."
+msgstr "Sistemsel bir hata oluştu."
+
+msgid "Successful Transactions"
+msgstr "Successful Transactions"
+
+msgid "Sıfırla"
+msgstr "Sıfırla"
+
+msgid "Tamamlandı"
+msgstr "Tamamlandı"
+
+msgid "Tarih"
+msgstr "Tarih"
+
+msgid "Test Modu"
+msgstr "Test Modu"
+
+msgid "Test(Sandbox) Modunu Aktif Et"
+msgstr "Test(Sandbox) Modunu Aktif Et"
+
+msgid "Tip 1 - Bayi Komisyonunu Üstlen (Assume Dealer Commission)"
+msgstr "Tip 1 - Bayi Komisyonunu Üstlen (Assume Dealer Commission)"
+
+msgid "Tip 2 - Tüm Komisyonu Üstlen (Assume All Commission)"
+msgstr "Tip 2 - Tüm Komisyonu Üstlen (Assume All Commission)"
+
+msgid "Tip 3 - Komisyonu Tamamen Yansıt (Reflect Commission Fully)"
+msgstr "Tip 3 - Komisyonu Tamamen Yansıt (Reflect Commission Fully)"
+
+msgid "Today Revenue"
+msgstr "Today Revenue"
+
+msgid "Total Revenue"
+msgstr "Total Revenue"
+
+msgid "Total Transactions"
+msgstr "Total Transactions"
+
+msgid "Tutar (₺)"
+msgstr "Tutar (₺)"
+
+msgid "Tutar Giriniz (₺)"
+msgstr "Tutar Giriniz (₺)"
+
+msgid "Tüm Durumlar"
+msgstr "Tüm Durumlar"
+
+msgid "VIP üyelik sayfası — 199₺ sabit"
+msgstr "VIP üyelik sayfası — 199₺ sabit"
+
+msgid "WooCommerce &rarr; HipoPAY Ayarlarını Aç"
+msgstr "WooCommerce &rarr; HipoPAY Ayarlarını Aç"
+
+msgid "WooCommerce Ayarları"
+msgstr "WooCommerce Ayarları"
+
+msgid "WooCommerce entegrasyonu için:"
+msgstr "WooCommerce entegrasyonu için:"
+
+msgid "Yalnızca \"Sabit Tutarlı Ödeme Formu\" seçildiğinde geçerlidir."
+msgstr "Yalnızca \"Sabit Tutarlı Ödeme Formu\" seçildiğinde geçerlidir."
+
+msgid "Zorunlu"
+msgstr "Zorunlu"
+
+msgid "işlem"
+msgstr "işlem"
+
+msgid "işlemler"
+msgstr "işlemler"
+
+msgid "Ödeme"
+msgstr "Ödeme"
+
+msgid "Ödeme Yap"
+msgstr "Ödeme Yap"
+
+msgid "Ödeme başlatılamadı. Geçersiz yanıt alındı."
+msgstr "Ödeme başlatılamadı. Geçersiz yanıt alındı."
+
+msgid "Ödeme başlığı, komisyon tipi, test modu ve debug loglama gibi WooCommerce checkout ayarları buradadır."
+msgstr "Ödeme başlığı, komisyon tipi, test modu ve debug loglama gibi WooCommerce checkout ayarları buradadır."
+
+msgid "Ödeme formunda ve işlem kaydında görünecek ürün adı."
+msgstr "Ödeme formunda ve işlem kaydında görünecek ürün adı."
+
+msgid "Ödeme sayfasında müşterinin göreceği başlık."
+msgstr "Ödeme sayfasında müşterinin göreceği başlık."
+
+msgid "Ödeme sırasında bir hata oluştu: "
+msgstr "Ödeme sırasında bir hata oluştu: "
+
+msgid "Ödeme yönlendirme bağlantısı alınamadı."
+msgstr "Ödeme yönlendirme bağlantısı alınamadı."
+
+msgid "Ödeme yöntemi seçildiğinde müşteriye gösterilecek açıklama."
+msgstr "Ödeme yöntemi seçildiğinde müşteriye gösterilecek açıklama."
+
+msgid "Ödeme İşlemi"
+msgstr "Ödeme İşlemi"
+
+msgid "Ödenecek Tutar:"
+msgstr "Ödenecek Tutar:"
+
+msgid "Örnek Kullanım Senaryoları"
+msgstr "Örnek Kullanım Senaryoları"
+
+msgid "Özel CSS entegrasyonu (tema sınıfı ekle)"
+msgstr "Özel CSS entegrasyonu (tema sınıfı ekle)"
+
+msgid "Ürün / Açıklama"
+msgstr "Ürün / Açıklama"
+
+msgid "Ürün / Bağış Adı"
+msgstr "Ürün / Bağış Adı"
+
+msgid "Ürün / Hizmet Adı"
+msgstr "Ürün / Hizmet Adı"
+
+msgid "İade"
+msgstr "İade"
+
+msgid "İade Edildi"
+msgstr "İade Edildi"
+
+msgid "İşlem Detayı:"
+msgstr "İşlem Detayı:"
+
+msgid "İşlem adı. Varsayılan: \"Ödeme İşlemi\""
+msgstr "İşlem adı. Varsayılan: \"Ödeme İşlemi\""
+
+msgid "İşlem kaydında görünecek bağış/ürün adı."
+msgstr "İşlem kaydında görünecek bağış/ürün adı."
+
+msgid "İşlemler"
+msgstr "İşlemler"
+
+msgid "İşleniyor"
+msgstr "İşleniyor"
+
+msgid "HipoPAY Payment Gateway eklentisi için en az PHP 7.4 ve WordPress 5.8 gereklidir. Lütfen sisteminizi güncelleyin."
+msgstr "HipoPAY Payment Gateway eklentisi için en az PHP 7.4 ve WordPress 5.8 gereklidir. Lütfen sisteminizi güncelleyin."
+

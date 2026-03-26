@@ -1,0 +1,138 @@
+/**
+ * HipoPAY Public Forms — Scoped Styles
+ * Tüm stiller .hipopay-public-form kapsamında tanımlanır;
+ * tema CSS'i etkisiz kılınır.
+ */
+
+/* ── Reset ──────────────────────────────────────────────── */
+.hipopay-public-form *,
+.hipopay-public-form *::before,
+.hipopay-public-form *::after {
+    box-sizing: border-box;
+}
+
+/* ── Input Alanları ─────────────────────────────────────── */
+.hipopay-form-inputs input[type="text"],
+.hipopay-form-inputs input[type="email"],
+.hipopay-form-inputs input[type="number"] {
+    display: block;
+    width: 100%;
+    padding: 10px 12px;
+    margin: 0 0 10px 0;
+    font-size: 14px;
+    font-family: inherit;
+    line-height: 1.4;
+    color: #333;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    box-shadow: none;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+
+    /* Tema override */
+    -webkit-appearance: none;
+    -moz-appearance: textfield; /* Firefox: spinner gizle */
+    appearance: none;
+}
+
+/* Chrome/Safari: number spinner gizle */
+.hipopay-form-inputs input[type="number"]::-webkit-inner-spin-button,
+.hipopay-form-inputs input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Focus durumu */
+.hipopay-form-inputs input[type="text"]:focus,
+.hipopay-form-inputs input[type="email"]:focus,
+.hipopay-form-inputs input[type="number"]:focus {
+    border-color: #0073aa;
+    box-shadow: 0 0 0 2px rgba(0, 115, 170, 0.18);
+    outline: none;
+}
+
+/* Readonly (oturum açmış kullanıcı — otomatik dolu) */
+.hipopay-form-inputs input[readonly] {
+    background: #f5f5f5;
+    color: #666;
+    cursor: default;
+    border-color: #ddd;
+}
+
+.hipopay-form-inputs input[readonly]:focus {
+    box-shadow: none;
+    border-color: #ddd;
+}
+
+/* ── Özet Bandı ─────────────────────────────────────────── */
+.hipopay-form-summary {
+    margin: 0 0 14px 0;
+    padding: 10px 12px;
+    background: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #444;
+    line-height: 1.6;
+}
+
+.hipopay-form-summary strong {
+    color: #222;
+}
+
+/* ── Gönder Butonu ──────────────────────────────────────── */
+.hipopay-submit-btn {
+    display: block;
+    width: 100%;
+    padding: 11px 16px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: inherit;
+    color: #fff;
+    background: #0073aa;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    transition: background 0.2s ease;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.hipopay-submit-btn:hover {
+    background: #005f8a;
+}
+
+.hipopay-submit-btn:active {
+    background: #004b6e;
+}
+
+.hipopay-submit-btn:disabled {
+    background: #aaa;
+    cursor: wait;
+}
+
+/* ── Mesaj Alanı ────────────────────────────────────────── */
+.hipopay-form-message {
+    margin-top: 10px;
+    font-size: 13px;
+    line-height: 1.5;
+    min-height: 0;
+}
+
+.hipopay-form-message.success {
+    color: #27ae60;
+}
+
+.hipopay-form-message.error {
+    color: #e74c3c;
+}
+
+/* ── Oturum Açık Bilgi Notu ─────────────────────────────── */
+.hipopay-autofill-notice {
+    display: block;
+    margin: -6px 0 10px 0;
+    font-size: 11px;
+    color: #888;
+}
